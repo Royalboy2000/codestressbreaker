@@ -39,7 +39,11 @@ To deploy this project run
   bash setup.sh
 ```
 ```bash
-  python3 start.py
+ node codebreaker.js URL 500 100 10
+```
+
+```bash
+  EXAMPLE: node codebreaker.js https://www.israelhayom.com/ 500 100 10
 ```
 
 
